@@ -1,14 +1,19 @@
 body {
  font-family: "Outfit";
- margin: 20px auto;
- padding: 200px;
- border: solid ;
+ border: solid thin black;
+ padding: 120px;
+ margin: 300px 200px;
+
+ 
 }
 .container {
   background-color: white hsl(0, 0%, 100%);  
   text-align: center;
-  
+  margin: 20px;    
+  padding: 200px;
+ 
 
+  
 }   
 
    
